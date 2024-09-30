@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print("Learning python is fun\"'")
+print("Learning Python is fun\"'")
