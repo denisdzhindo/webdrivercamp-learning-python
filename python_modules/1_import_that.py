@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
-import calculation
+from calculation import some_var
 
 print(some_var)
+
+calculation.add(4,4)
