@@ -14,5 +14,5 @@ for list_ in matrix:
 
 # unpacking list solution: 
 
-for element in matrix:
-  print(*element)
+'''for element in matrix:
+  print(*element)'''
