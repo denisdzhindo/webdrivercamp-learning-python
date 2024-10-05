@@ -2,6 +2,8 @@
 
 from calculation import some_var
 
-print(some_var)
+if __name__=='__main__':
 
-calculation.add(4,4)
+    print(some_var)
+
+
