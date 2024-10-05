@@ -11,3 +11,8 @@ for list_ in matrix:
     print(number, end=" ")
   print("")
 
+
+# unpacking list solution: 
+
+'''for element in matrix:
+  print(*element)'''
