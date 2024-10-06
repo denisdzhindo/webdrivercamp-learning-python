@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 
-numbers = range(100)
+print(*range(100), sep = ", ")
+
+# solution 2 with var (for practice)
+'''numbers = range(100)
 result = ""
 
 for index, number in enumerate(numbers):
@@ -8,7 +11,7 @@ for index, number in enumerate(numbers):
   if index < len(numbers) - 1:
     result += ", "
 
-print(result)
+print(result)'''
 
-# solution 2
-# print(*range(100), sep = ", ")
+
+
