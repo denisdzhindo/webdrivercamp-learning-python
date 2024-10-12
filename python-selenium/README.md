@@ -55,10 +55,15 @@ Advanced
 Give me what I want
 Go here [ebay / watches ](https://www.ebay.com/sch/i.html?_from=R40&_nkw=watch&_sacat=0&rt=nc&Department=Men&_dcat=31387)
 Find an XPath to collect watches that are:
+
 $20 < price < $200
+
 5.0 out of 5 stars and reviews count >= 10
+
 Free shipping
+
 Are on Sale: 20% 0ff and more
+
 Note: It should be one single XPath to complete the task
 
 
