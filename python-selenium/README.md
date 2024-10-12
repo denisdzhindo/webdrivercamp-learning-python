@@ -67,6 +67,8 @@ Are on Sale: 20% 0ff and more
 Note: It should be one single XPath to complete the task
 
 
+Summary
+
 Basics of HTML and Document Tree.
 
 What is XPath?
