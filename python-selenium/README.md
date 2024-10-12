@@ -1,8 +1,11 @@
 XPath
 
 Resources
+
 HTML Document Tree http://web.simmons.edu/~grabiner/comm244/weekfour/document-tree.html
+
 XPath - Tutorial https://www.w3schools.com/xml/xpath_intro.asp 
+
 Core XPath Functions https://developer.mozilla.org/en-US/docs/Web/XPath/Functions
 
 
