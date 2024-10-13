@@ -1,0 +1,17 @@
+0. //ul[@class='vl-flyout-nav__container']/li/a[text()]
+
+
+1. //ul[@class='x-refine__left__nav']/li[@class='x-refine__main__list'] 
+
+2. //ul[@class='x-refine__left__nav']/li[@class='x-refine__main__list'][.//text()='Show only']
+
+3. //li[h3[contains(.,'Brand')]]//input[@aria-label='adidas']
+
+
+4. //li[@class='s-item s-item__pl-on-bottom' and @data-gr4]//span[@role='heading'] | //li[@class='s-item s-item__before-answer s-item__pl-on-bottom']//span[@role='heading'] - all headings
+
+$x("//li[@class='s-item s-item__pl-on-bottom' and @data-gr4]//span[@role='heading' and translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz')='size 8.5 - air jordan 7 retro black gloss w']") - still cannot catch the last one on the page, which got in the first 
+
+5. //div[@class='gh-submenu gh-eb-o']//a sleep?
+
+
