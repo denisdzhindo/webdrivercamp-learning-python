@@ -6,7 +6,7 @@ In Python you can create a new set with my_set = set() function, add to it my_se
 
 What are the most common methods of set and how to use them x.union(y), x.intersection(y), x.difference(y), y.symmetric_difference(x), x.update(y), 
 
-When to use sets versus lists
+When to use sets versus lists:  If you don’t want the values in the data to change, you can use a set. But if you want the items to change, you can use a list. You can also take into account whether the order of the items matters to you or not.
 
 How to iterate into a set
 
