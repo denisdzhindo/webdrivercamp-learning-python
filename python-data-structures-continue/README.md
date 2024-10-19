@@ -8,7 +8,7 @@ What are the most common methods of set and how to use them x.union(y), x.inters
 
 When to use sets versus lists:  If you don’t want the values in the data to change, you can use a set. But if you want the items to change, you can use a list. You can also take into account whether the order of the items matters to you or not.
 
-How to iterate into a set
+How to iterate into a set Set - Loops, we can set [id] for item, but Set() is unordered, unindexed collection -> when iterate the order is not guaranteed 
 
 What are dictionaries and how to use them
 
