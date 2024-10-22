@@ -1,3 +1,3 @@
-This project covers some core Python beginner exercies
+This project covers some core Python beginner exercises
 
 All files are executable
